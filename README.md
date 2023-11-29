@@ -25,8 +25,8 @@
 </p>
 
 <p width="100%">
-<img width="53%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=veDnimatvi&show_icons=true" /> 
-<img width="44%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veDnimatvi&layout=compact" />
+<img width="53%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://google.com" /> 
+<img width="44%" alt="Hung's GitHub Top Languages" src="https://google.com" />
 </p>
 
 <!--
