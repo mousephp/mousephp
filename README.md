@@ -7,6 +7,7 @@
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="BEM" src="https://niithanoi.edu.vn/pic/News/TIM-HIEU-VE-BEM-CSS.jpg" height="20"></a>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="20">
     <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="20">
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white"></a>
@@ -33,6 +34,7 @@
    <p>
    <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="20">
    <img alt="Slim" src="https://global.discourse-cdn.com/standard14/uploads/slimframework/original/1X/704c3a9a7ce53ea7d06952ff4a33cf945e68ac4e.png" height="20">
+   <img alt="Cakephp" src="https://cakephp.org/img/trademarks/logo-2.jpg" height="20">
    <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20">
    <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="20">
    <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="20">
@@ -48,6 +50,7 @@
    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="20">
    <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="20">
    <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="20"> 
+   <img alt="SourceTree" src="https://codetot.net/wp-content/uploads/2017/03/sourcetree.jpg" height="20"> 
    </p>
 
    
