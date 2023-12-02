@@ -53,6 +53,15 @@
    <img alt="SourceTree" src="https://codetot.net/wp-content/uploads/2017/03/sourcetree.jpg" height="20"> 
    </p>
 
+### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mousephp&hide=contribs,issues,prs&show_icons=true)
+
+- 🔭 I’m currently working on Google
+- 🌱 I’m currently learning AI
+- 📫 How to reach me: https://linkedin.com/
+
+  
    
 <!--
 <p width="100%">
